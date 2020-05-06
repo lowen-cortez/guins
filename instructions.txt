@@ -1,0 +1,11 @@
+Rename Images File Instructions
+
+1. Go to ConnectFourPannel 
+2. Scroll down po hanggang mareach yung line 103 to 106 po. 
+3. Palitan po ninyo yung C:\\ kung saan po ninyo nasave. 
+
+	icon = new ImageIcon("C:\\Users\\ASUS\\Desktop\\image\\bwaka.png");
+	icon2 = new ImageIcon("C:\\Users\\ASUS\\Desktop\\image\\character1.png");
+	icon4 = new ImageIcon= new ImageIcon("C:\\Users\\ASUS\\Desktop\\image\\ame.jpg");
+	icon3 = new ImageIcon("C:\\Users\\ASUS\\Desktop\\image\\character2.png");
+
